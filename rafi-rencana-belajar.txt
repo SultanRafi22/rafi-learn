@@ -3,4 +3,4 @@ RENCANA BELAJAR
 - Belajar Java (Belajar mengenai OOP)
 - BElajar HTML, CSS, JavaScript
 - Belajar ASD
-- Belajar aljabar linier
+- Belajar Statistika dan Probabilitas
