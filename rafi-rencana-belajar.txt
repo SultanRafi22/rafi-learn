@@ -1,4 +1,5 @@
 RENCANA BELAJAR 
-- Belajar Python
-- Belajar Java
+- Belajar Python (belajar library tensorflow/scikit-learn)
+- Belajar Java 
 - BElajar HTML, CSS, JavaScript
+- Belajar ASD
