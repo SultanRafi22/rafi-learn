@@ -2,3 +2,4 @@ File ini adalah tes belajar GitHub
 - Belajar
 - Buat tugas
 - Download
+- Belajar math & Stats untuk ML
